@@ -1,0 +1,1 @@
+AI Meeting Assistant is an end-to-end intelligent assistant designed to transform raw meeting audio into actionable insights. Powered by OpenAI Whisper and LLMs, it automatically handles transcription, speaker diarization, structured summarization, action-item extraction, and semantic search over past meeting discussions.
